@@ -1,0 +1,2 @@
+model_checkpoint_path: "Acrobat_dqn_weights.h5f"
+all_model_checkpoint_paths: "Acrobat_dqn_weights.h5f"
